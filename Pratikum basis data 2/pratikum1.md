@@ -8,3 +8,8 @@
 
 
 ![307369255-3a2998e2-5a37-46d1-a63c-a2bdaa6f867d](https://github.com/arisbp/arisbp/assets/160198125/8207bdd6-a7c4-45c6-88c6-2718689379f7)
+>tabel untuk
+
+![Capture undangan](https://github.com/arisbp/arisbp/assets/160198125/c5449227-6eaa-4edd-a8bd-13b8806e4f1a)
+![Capture undangan 2](https://github.com/arisbp/arisbp/assets/160198125/0ab73add-70c0-481e-bff9-48e5180fc290)
+>Di tandai mana yang mana database yang harus di simpan dan membuat tabelnya
