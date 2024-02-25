@@ -2,7 +2,7 @@
 
 
 ![307336248-40411d25-2dbc-4a36-8998-86dc09b51cf7](https://github.com/arisbp/arisbp/assets/160198125/8c9d1e98-106c-4d04-ac7c-65c1ca95d665)
-
+>di tambahkan table data untuk preference untuk tabel detail penjualan barang
 
 ![307338390-3019cb09-c349-4759-ae50-379be2e7aa5b](https://github.com/arisbp/arisbp/assets/160198125/fe3bc6d0-cb8e-4741-92d3-47f66b424475)
 
