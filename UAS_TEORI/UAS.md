@@ -1,14 +1,14 @@
-01.Querry Demo 
+**01.Querry Demo**
 
-:![BASDAT 1](https://github.com/arisbp/arisbp/assets/160198125/bdf23851-cce4-4937-abf0-9b0ea7764f85)
-
-
-![BASDAT 2](https://github.com/arisbp/arisbp/assets/160198125/ab292a42-4b2d-45af-b0cf-05737d20452a)
+> :![BASDAT 1](https://github.com/arisbp/arisbp/assets/160198125/bdf23851-cce4-4937-abf0-9b0ea7764f85)
 
 
-02.Querry Soal
+> ![BASDAT 2](https://github.com/arisbp/arisbp/assets/160198125/ab292a42-4b2d-45af-b0cf-05737d20452a)
 
-![BASDAT 3](https://github.com/arisbp/arisbp/assets/160198125/bd09fec5-ad8d-4d6f-a5f9-27f0657c7292)
+
+**02.Querry Soal**
+
+> ![BASDAT 3](https://github.com/arisbp/arisbp/assets/160198125/bd09fec5-ad8d-4d6f-a5f9-27f0657c7292)
 
 
 ![BASDAT 4](https://github.com/arisbp/arisbp/assets/160198125/8c58204d-d8b6-4faa-8b0b-6803f2927fc8)
