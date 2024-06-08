@@ -12,9 +12,9 @@
  
  🔭 I’m currently studying on **Politeknik Negeri Malang**
  
- 🌱 I’m currently learning **Database,HTML,PYTHON **
+ 🌱 I’m currently learning **Database,HTML,PYTHON**
 
-⚡ Fun fact *IAM playing LOST ARK ALL TIME **
+⚡ Fun fact **IAM playing LOST ARK ALL TIME**
 
  </div>
  
