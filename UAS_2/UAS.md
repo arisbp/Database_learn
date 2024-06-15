@@ -1,4 +1,4 @@
-<h1>ERD BLOG<h1?>
+**ERD BLOG**
   
 Seorang content creator membutuhkan bantuan anda untuk membuatkan platform publikasi kontent kontennya.
 
