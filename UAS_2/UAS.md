@@ -1,4 +1,5 @@
 <h1>ERD BLOG<h1?>
+  
 Seorang content creator membutuhkan bantuan anda untuk membuatkan platform publikasi kontent kontennya.
 
 Platform ini berbentuk sebuah website dimana konten creator tersebut dapat mempublikasikan karya karyanya dalam bentuk sebuah berita secara online di internet.
