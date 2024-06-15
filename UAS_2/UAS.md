@@ -12,3 +12,25 @@ Untuk mempermudah interaksi antara pembaca dan penulis di sistem berita ini seti
 
 > ![Capture](https://github.com/arisbp/arisbp/assets/160198125/3babb5f4-aa6c-4419-a949-4559a15611c9)
 
+**ERD Todo App**
+Seorang mahasiswa ingin membuat sebuah aplikasi todo app dimana dengan menggunakan aplikasi ini mahasiswa tersebut dapat melakukan management terhadap tugas tugas yang harus dilaukaannya dalam sebuah aplikasi web.
+Aplikasi ini mengharuskan user melakukan login dengan menggunakan username dan password, username pada aplikasi ini harus unique dan tidakboleh sama dengan username dari user lain. password pada aplikasi ini harus di enkripsi dan memiliki panjang minimal 8 karakter terdiri dari angka dan huruf serta minimal satu simbol.
+seorang user boleh membuat banyak todo item setiap todo item memiliki todo item id yang unik serta mempunyai task description yang berupa text panjang serta memiliki attribut attribut ini harus dipilih salah satu di antara 3 status yaitu “planned”,“ongoing”, dan “done”. 
+Sebelum membuat sebuah todo user harus membuat minimal satu atau lebih category, kategory ini mempunyai category id yang unik dan info mengenai category name yang memiliki panjang minimal 5 karakter dan maksimal 20 karakter.
+Sebuah category dapat digunakan pada banyak todo item dan satu todo item wajib memiliki satu kategory, tidak ada todo item yang tidak memiliki kategori.
+
+
+> ![WhatsApp Image 2024-06-15 at 09 42 27](https://github.com/arisbp/arisbp/assets/160198125/c1a11250-5e5e-4546-98b1-9621bbf83c03)
+
+
+
+**ERD Weather App**
+Sebuah perusahaan ingin membuat aplikasi ramalan cuaca, aplikasi ini mewajibkan usernya untuk login menggunakan username dan password, user juga wajib memiliki user id yang unik untuk setiap usernya selain itu username harus unik dan tidak boleh ada user yang memiliki username yang sama.
+Untuk melihat prakiraan cuaca seorang user dapat menambahkan minimal satu atau lebih kota yang ingin dilihat prakiraan cuacanya. Di aplikasi ini suatu kota juga dapat ditambahkan oleh user lain yang ingin mengetahui prakiraan cuaca di kota tersebut.
+Kota memiliki identifier yang unik bernama kota id, kota id tidak boleh sama antara satu kota dengan kota lain kota juga menyimpan informasi mengenai nama kota yang berisi text dengan maksimal panjang karakter 50.
+Sebuah kota terkelompokkan dalam sebuah negara dimana sebuah negara memiliki beberapa kota. data yang diperlukan untuk negara adalah negara id yang bersifat unik dan nama negara yang berisi text dengan maksimal panjang karakter 55.
+sebuah kota dapat memiliki banyak prakiraan cuaca, dimana prakiraan cuaca ini disimpan dengan data prakiraan id yang unik, tanggal prakiraan cuaca, temperatur terendah dan temperatur tertinggi.
+Setiap prakiraan cuaca memiliki maksimal satu kondisi cuaca dimana kondisi cuaca ini bersifat dinamis dapat ditambahkan secara mandiri oleh admin aplikasi, kondisi cuaca memiliki kondisi id yang bersifat unik dan nama kondisi yang berupa sebuah text dengan panjang maksimal 30 karakter. Kondisi cuaca ini dapat dipakai oleh lebih dari satu prakiraan cuaca.
+
+
+>![Capture1](https://github.com/arisbp/arisbp/assets/160198125/9d8fb55d-7859-47df-be56-109db431e1b2)
